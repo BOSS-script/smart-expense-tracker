@@ -39,11 +39,9 @@ conda activate smarttracker
 # 3. Install dependencies
 pip install -r requirements.txt
 # 4. Run the app
-streamlit run app.py
-# Deployment
-Not done yet 
+streamlit run app.py 
 # Demo Video
-Not done yet 
+https://www.youtube.com/watch?v=MmiPPBu8zVE 
 # Features
  * End-to-end working Streamlit web app
  * Add, categorize, and visualize expenses
